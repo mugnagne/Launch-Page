@@ -1,0 +1,19 @@
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+body{
+	font-family: 'Kanit', sans-serif;
+	font-size:18px;
+	margin:0px;
+
+
+
+}
+h1,h2,h3{
+	font-family: 'Oswald', sans-serif;
+}
